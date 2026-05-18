@@ -1,6 +1,3 @@
-# Learning-Linux
-Learning linux from Scratch
+# ML OPS Learning
 
-So in this i will upload by day to day learning progress of Linux Ubuntu Distro Process
-
-In First Linux Document i have gone through the chapter 1 to 5
+This Repo Will Contain All the Thing i Learning Towards MLOPS
